@@ -1,0 +1,4 @@
+plugins:
+  lm_logo_link:
+    default: 'https://community.leroymerlin.ru'
+    client: true
